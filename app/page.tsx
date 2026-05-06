@@ -9,8 +9,8 @@ export default function Home() {
           Vibe App
         </h1>
         <p className="mt-4 text-lg leading-relaxed text-zinc-600 dark:text-zinc-400">
-          If you see this on Vercel, your repo branch and project root are wired
-          correctly.
+          If you see this on Cloudflare Workers, your OpenNext build and Wrangler
+          config are wired correctly.
         </p>
       </main>
     </div>
